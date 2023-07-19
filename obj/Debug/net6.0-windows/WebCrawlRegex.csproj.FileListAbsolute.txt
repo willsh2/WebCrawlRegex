@@ -1,0 +1,17 @@
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\bin\Debug\net6.0-windows\WebCrawlRegex.exe
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\bin\Debug\net6.0-windows\WebCrawlRegex.deps.json
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\bin\Debug\net6.0-windows\WebCrawlRegex.runtimeconfig.json
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\bin\Debug\net6.0-windows\WebCrawlRegex.dll
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\bin\Debug\net6.0-windows\WebCrawlRegex.pdb
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.csproj.AssemblyReference.cache
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.Form1.resources
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.csproj.GenerateResource.cache
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.AssemblyInfo.cs
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.dll
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\refint\WebCrawlRegex.dll
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.pdb
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\WebCrawlRegex.genruntimeconfig.cache
+C:\Users\Will\Desktop\Projelerim\WebCrawlRegex\obj\Debug\net6.0-windows\ref\WebCrawlRegex.dll
